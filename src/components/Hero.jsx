@@ -5,7 +5,7 @@ import "../styles/hero.css";
 
 function Hero() {
   const handleButtonClick = () => {
-    window.open("https://mibohio.co/");
+    window.location.href = "https://mibohio.co/";
   };
 
   return (
