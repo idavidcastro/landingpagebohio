@@ -5,7 +5,7 @@ import "../styles/hero.css";
 
 function Hero() {
   const handleButtonClick = () => {
-    window.open("https://mibohio.co/", "_blank");
+    window.open("https://mibohio.co/");
   };
 
   return (
